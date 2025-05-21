@@ -1,0 +1,10 @@
+# Ignore CSV files and data folder contents
+*.csv
+data/
+
+# System junk
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+
